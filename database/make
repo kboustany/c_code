@@ -1,0 +1,2 @@
+clang -o client client.c database.c ../arrayList/arrayList.c \
+../reader/reader.c
